@@ -15,7 +15,7 @@ public class HomePage {
 
 	}
 
-	
+       //open network	
 	public void network() {
 		network.click();
 
